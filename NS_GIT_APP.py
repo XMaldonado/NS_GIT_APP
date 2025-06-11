@@ -22,7 +22,7 @@ if page == "Home":
     )
     #st.info("Tip: Check out the 'Market Insights' tab for the latest trends.")
     #st.markdown("#### Ready to make some trades?...")
-    #st.image("City Scape.jpg")
+    st.image("City Scape.jpg")
     st.balloons()
 
     
