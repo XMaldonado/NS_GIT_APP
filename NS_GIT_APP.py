@@ -6,7 +6,8 @@ from scipy.optimize import curve_fit
 from snowflake.snowpark.context import get_active_session
 
 
-import streamlit as st
+st.set_page_config(page_title="Investment Dashboard", layout="wide")
+
 
 # Navigation
 page = st.sidebar.selectbox("Choose a page", ["Home", "INVESTMENT GRADE", "HIGH YIELD"])
