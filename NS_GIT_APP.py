@@ -401,9 +401,9 @@ elif page == "Fundamental":
         st.subheader("Great things take time.")
         st.image("A realistic image of a bird wearing a construction hard hat and construction attire, standing on a c (1).jpeg")
     with tab2:
-        st.subheader("Ehhhh.... Sorry pal, we are still under construction")
-        st.image("A realistic image of a bird wearing a construction hard hat and construction attire, standing on a c.jpeg")
-
+        st.subheader("We’re building this with turtle-speed precision")
+        st.image("A realistic image of a turtle wearing a construction hard hat and construction attire, standing on a.jpeg")
+        #st.subheader("We are known for our speed....")
 # Z-Score
 elif page == "Z-Score of Peers":
     st.title("📉 Z-Score of Peers")
@@ -420,6 +420,6 @@ elif page == "Z-Score of Peers":
         
         st.image("A realistic image of a golden doodle wearing a construction hard hat and construction attire, standi.jpeg")
     with tab2:
-        st.subheader("We’re building this with turtle-speed precision")
-        st.image("A realistic image of a turtle wearing a construction hard hat and construction attire, standing on a.jpeg")
-        #st.subheader("We are known for our speed....")
+        st.subheader("Ehhhh.... Sorry pal, we are still under construction")
+        st.image("A realistic image of a bird wearing a construction hard hat and construction attire, standing on a c.jpeg")
+
