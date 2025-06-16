@@ -404,12 +404,12 @@ elif page == "Fundamental":
         st.subheader("Ehhhh.... Sorry pal, we are still under construction")
         st.image("A realistic image of a bird wearing a construction hard hat and construction attire, standing on a c.jpeg")
 
-# Plot Page
+# Z-Score
 elif page == "Z-Score of Peers":
     st.title("📉 Z-Score of Peers")
     tab1, tab2 = st.tabs(["IG", "HY"])
     with tab1:
-        st.subheader("I do work faster if I get treats")
+        st.subheader("The dog union demands more treats before continuing work")
 
         if st.button("Make it Rain!"):
             treats = ["🦴", "🍖"]
@@ -420,6 +420,6 @@ elif page == "Z-Score of Peers":
         
         st.image("A realistic image of a golden doodle wearing a construction hard hat and construction attire, standi.jpeg")
     with tab2:
-        st.subheader("Soon ... do not worry.")
+        st.subheader("We’re building this with turtle-speed precision")
         st.image("A realistic image of a turtle wearing a construction hard hat and construction attire, standing on a.jpeg")
-        st.subheader("We are known for our speed....")
+        #st.subheader("We are known for our speed....")
